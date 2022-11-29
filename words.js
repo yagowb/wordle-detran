@@ -16,6 +16,7 @@ export const WORDS = [
     'marcas',
     'placas',
     'rodas',
+    'postes',
     'dpvats',
     'farois',
     'parada',
